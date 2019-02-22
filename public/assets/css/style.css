@@ -1,19 +1,33 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+p {
+  padding: 7px;
+  margin: 10px 300px 10px 300px;
+  background: grey;
+  color:white;
+  text-align: center;
+ 
 }
 
 .label {
   font-weight: bold;
+  text-align: center;
 }
 
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+  text-align: center;
 }
 
 .form-group {
   margin-bottom: 5px;
+  text-align: center;
+}
+body{
+ background-color:yellow;
+ text-align: center;
+ font-weight: bold;
+}
+img{
+  height: 300px;
+  width:400px;
 }
